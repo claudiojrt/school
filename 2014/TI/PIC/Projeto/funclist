@@ -1,0 +1,12 @@
+_lcd_putc: CODE, 1343 0 76
+_sync: CODE, 1568 0 38
+_putch: CODE, 1673 0 8
+_serial: CODE, 512 0 346
+_main: CODE, 19 0 493
+_lcd_clear: CODE, 1629 0 19
+_lcd_goto: CODE, 1663 0 10
+_serial_init: CODE, 1606 0 23
+_printf: CODE, 1529 0 39
+_lcd_write: CODE, 1488 0 41
+_lcd_init: CODE, 1419 0 69
+Total: 1162

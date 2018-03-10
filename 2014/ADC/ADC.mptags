@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Input::RA1	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	21;"	d	line:21	file:
+LM35::RA0	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	20;"	d	line:20	file:
+MCLRE_ON	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	15;"	v	line:15
+T1_init	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	48;"	f	line:48	signature:(void)
+Temperatura	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	25;"	v	line:25
+Voltimetro	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	26;"	v	line:26
+_XTAL_FREQ::4000000	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	17;"	d	line:17	file:
+adc_init	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	40;"	f	line:40	signature:(void)
+cont	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	24;"	v	line:24
+interrupts	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	28;"	f	line:28	signature:(void)
+main	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	56;"	f	line:56	signature:(void)
+set	D:\Dropbox\Escola\Programação\Micros\Tarefas\2º Trimestre\4 - ADC\Tarefa_ADC.c	23;"	v	line:23

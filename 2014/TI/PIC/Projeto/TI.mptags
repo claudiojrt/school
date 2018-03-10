@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+C_on	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	15;"	v	line:15
+LCD_DATA::PORTC	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	18;"	d	line:18	file:
+LCD_EN::RA1	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	17;"	d	line:17	file:
+LCD_RS::RA0	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	15;"	d	line:15	file:
+LCD_STROBE::((LCD_EN=1),(LCD_EN=0))	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	19;"	d	line:19	file:
+LEDvd::RA5	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	11;"	d	line:11	file:
+LEDvm::RA4	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	12;"	d	line:12	file:
+MCLRE_OFF	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	6;"	v	line:6
+_XTAL_FREQ::4000000	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	8;"	d	line:8	file:
+_XTAL_FREQ::8000000	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	8;"	d	line:8	file:
+conex	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	17;"	v	line:17
+dado_rx	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	14;"	v	line:14
+flag	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	17;"	v	line:17
+flagmin	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	15;"	v	line:15
+flagstat	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	15;"	v	line:15
+ini	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	15;"	v	line:15
+init_value	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	100;"	l	line:100
+lcd_clear	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	35;"	f	line:35	signature:(void)
+lcd_clear	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	12;"	p	line:12	signature:(void)
+lcd_cursor::(x)lcd_write(((x)&0x7F)|0x80)	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	30;"	d	line:30
+lcd_goto	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	91;"	f	line:91	signature:(unsigned char pos)
+lcd_goto	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	20;"	p	line:20	signature:(unsigned char pos)
+lcd_init	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	98;"	f	line:98
+lcd_init	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	24;"	p	line:24	signature:(void)
+lcd_putc	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	51;"	f	line:51	signature:(char c)
+lcd_putc	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	26;"	p	line:26	signature:(char)
+lcd_puts	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	43;"	f	line:43	signature:(const char * s)
+lcd_puts	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	16;"	p	line:16	signature:(const char * s)
+lcd_write	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	23;"	f	line:23	signature:(unsigned char c)
+lcd_write	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	8;"	p	line:8	signature:(unsigned char)
+lixo	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	29;"	l	line:29
+main	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	166;"	f	line:166	signature:(void)
+minutos	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	16;"	v	line:16
+putch	C:\Users\Claudio\Desktop\TI\PIC\LCD_ModSauer+ModCláudio.c	124;"	f	line:124	signature:(char c)
+putch	C:\Users\Claudio\Desktop\TI\PIC\lcd.h	5;"	p	line:5	signature:(char c)
+ready	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	15;"	v	line:15
+seg	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	17;"	v	line:17
+serial	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	27;"	f	line:27	signature:(void)
+serial_init	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	148;"	f	line:148	signature:(void)
+sync	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	20;"	f	line:20	signature:(char mode, char data)
+wait	C:\Users\Claudio\Desktop\TI\PIC\Projeto_TI.c	15;"	v	line:15
