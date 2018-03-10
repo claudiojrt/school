@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+MCLRE_ON	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	3;"	v	line:3
+RX::RA0	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	8;"	d	line:8	file:
+T1_init	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	120;"	f	line:120	signature:(void)
+_XTAL_FREQ::8000000	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	5;"	d	line:5	file:
+byte_cont	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	21;"	v	line:21
+byte_done	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	10;"	v	line:10
+byte_test	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	11;"	v	line:11
+dado_rx	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	18;"	v	line:18
+dado_rx2	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	19;"	v	line:19
+dado_sel	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	12;"	v	line:12
+end_startcode	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	13;"	v	line:13
+init	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	127;"	f	line:127	signature:(void)
+interrupts	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	23;"	f	line:23	signature:(void)
+main	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	137;"	f	line:137	signature:(void)
+recebendo	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	14;"	v	line:14
+recebeu_bit	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	15;"	v	line:15
+start	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	16;"	v	line:16
+start_cont	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	20;"	v	line:20
+testa	D:\Dropbox\TC - 2015\Pesquisas\PIC\Teste de Recebimento\Teste_Recebimento.c	17;"	v	line:17

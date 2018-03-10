@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+MCLRE_ON	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	4;"	v	line:4
+OFF::CCPR1L=20	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	12;"	d	line:12	file:
+ON::CCPR1L=10	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	11;"	d	line:11	file:
+RX::RA0	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	9;"	d	line:9	file:
+Rele::RA4	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	10;"	d	line:10	file:
+T1_init	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	100;"	f	line:100	signature:(void)
+T2_init	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	107;"	f	line:107	signature:(void)
+_XTAL_FREQ::8000000	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	6;"	d	line:6	file:
+bt_flag	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	15;"	v	line:15
+cont	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	21;"	v	line:21
+dado_rx	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	18;"	v	line:18
+delay2::__delay_ms(2)	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	13;"	d	line:13	file:
+enviando	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	19;"	v	line:19
+enviar	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	23;"	v	line:23
+flag	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	22;"	v	line:22
+interrupts	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	59;"	f	line:59	signature:(void)
+lixo	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	20;"	v	line:20
+main	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	132;"	f	line:132	signature:(void)
+protocol	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	34;"	f	line:34
+recebeu	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	16;"	v	line:16
+send	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	25;"	f	line:25
+serial_init	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	116;"	f	line:116	signature:(void)
+testa	D:\Dropbox\TC - 2015\Pesquisas\PIC\8 - Dispositivo 1\Dispositivo_1.c	17;"	v	line:17
